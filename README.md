@@ -22,5 +22,6 @@ Com a IA, várias portas são abertas e cheias de possibilidades, com ferramenta
 ```
 
 ## Link do E-book
+[Projeto DIO.pdf](https://github.com/user-attachments/files/18142911/Projeto.DIO.pdf)
 
 
